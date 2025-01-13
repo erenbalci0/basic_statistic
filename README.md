@@ -1,6 +1,6 @@
 # basic_statistic
 
-####Soru1
+###Soru1
 
 ### Veriler:
 - Sınıf Aralıkları ve Frekanslar:
@@ -91,7 +91,7 @@ Sınıf aralıklarına göre frekansların görselleştirilmesi histogram ile ya
 - Mod: 1.0
 - Medyan: 1.0
 
-####Soru2
+###Soru2
 
 ### Veriler:
 - \( P(A) = 0.10 \)
@@ -170,5 +170,5 @@ P(A \cup B) = 0.22
 2. \( P(B \cup C) = 0.30 \)
 3. \( P(A \cup B) = 0.22 \) (A ve B birbirini dışlayan olaylardır)
 
-####Soru3
+###Soru3
 
